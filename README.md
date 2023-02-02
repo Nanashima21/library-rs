@@ -1,4 +1,5 @@
 # Library of Algorithms and Data Structures
+[![library-test](https://github.com/Nanashima21/library-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/Nanashima21/library-rs/actions/workflows/rust.yml)
 
 written in Rust
 
@@ -20,5 +21,6 @@ src
 ├─ data_structures
 │   ├─ disjoint_set_union.rs //Union-Find
 │   └─ fenwick_tree.rs       //Binary Index Tree
-└─ lib.rs
+├─ lib.rs
+└─ main.rs
 ```
