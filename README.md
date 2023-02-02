@@ -18,6 +18,7 @@ You can view the CC0 license at https://creativecommons.org/publicdomain/zero/1.
 src
 ├─ data_structures.rs
 ├─ data_structures
-│   └─ disjoint_set_union.rs //Union-Find木
+│   ├─ disjoint_set_union.rs //Union-Find
+│   └─ fenwick_tree.rs       //Binary Index Tree
 └─ lib.rs
 ```
