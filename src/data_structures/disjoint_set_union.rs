@@ -64,7 +64,7 @@ impl Dsu {
 mod tests {
     use super::*;
     #[test]
-    fn dsu_works() {
+    fn test_dsu() {
         let mut d = Dsu::new(4);
         d.merge(0, 1);
         assert!(d.same(0, 1));

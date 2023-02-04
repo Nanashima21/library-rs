@@ -46,7 +46,7 @@ impl<T: Clone + std::ops::AddAssign<T>> FenwickTree<T> {
 mod tests {
     use super::*;
     #[test]
-    fn fenwick_tree_works() {
+    fn test_fenwick_tree() {
         let mut bit = FenwickTree::new(5, 0i64);
         // [1, 2, 3, 4, 5]
         for i in 0..5 {
