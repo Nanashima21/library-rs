@@ -19,11 +19,12 @@ You can view the CC0 license at https://creativecommons.org/publicdomain/zero/1.
 src
 ├─ algorithms
 │   ├─ math
-│   │   └─ modpow.rs
+│   │   ├─ mod_pow.rs
+│   │   └─ the_twelvehold_way.rs
 │   ├─ string
 │   │   └─ run_length.rs
-│   ├─ string.rs
-│   └─ math.rs
+│   ├─ math.rs
+│   └─ string.rs
 ├─ data_structures
 │   ├─ disjoint_set_union.rs //Union-Find
 │   └─ fenwick_tree.rs       //Binary Index Tree
