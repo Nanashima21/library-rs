@@ -26,8 +26,9 @@ src
 │   ├─ math.rs
 │   └─ string.rs
 ├─ data_structures
-│   ├─ disjoint_set_union.rs //Union-Find
-│   └─ fenwick_tree.rs       //Binary Index Tree
+│   ├─ disjoint_set_union.rs 
+│   ├─ fenwick_tree.rs  
+│   └─ segment_tree.rs       
 ├─ algorithms.rs
 ├─ data_structures.rs
 ├─ lib.rs
