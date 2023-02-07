@@ -22,7 +22,8 @@ src
 │   │   ├─ mod_pow.rs
 │   │   └─ the_twelvehold_way.rs
 │   ├─ string
-│   │   └─ run_length.rs
+│   │   ├─ run_length.rs
+│   │   └─ z_algorithm.rs
 │   ├─ math.rs
 │   └─ string.rs
 ├─ data_structures
