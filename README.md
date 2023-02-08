@@ -19,6 +19,7 @@ You can view the CC0 license at https://creativecommons.org/publicdomain/zero/1.
 src
 ├─ algorithms
 │   ├─ math
+│   │   ├─ is_prime.rs
 │   │   ├─ mod_pow.rs
 │   │   └─ the_twelvehold_way.rs
 │   ├─ string
