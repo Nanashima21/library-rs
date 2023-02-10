@@ -22,6 +22,7 @@ src
 │   │   ├─ enum_divisors.rs
 │   │   ├─ is_prime.rs
 │   │   ├─ mod_pow.rs
+│   │   ├─ prime_factorize.rs
 │   │   └─ the_twelvehold_way.rs
 │   ├─ string
 │   │   ├─ run_length.rs
